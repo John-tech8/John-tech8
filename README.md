@@ -13,29 +13,29 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&labelColor=1a1a2e&color=7C3AED" alt="Degree" />
+  <img src="https://img.shields.io/badge/B.Tech-%20Information%20%26%20Technology-7C3AED?style=for-the-badge&labelColor=1a1a2e&color=7C3AED" alt="Degree" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%7C%20AI%2FML-8B5CF6?style=for-the-badge&labelColor=1a1a2e&color=8B5CF6" alt="Focus" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-India-6D28D9?style=flat-square&labelColor=1a1a2e" alt="Location" />
+  <img src="https://img.shields.io/badge/📍Chennai-India-6D28D9?style=flat-square&labelColor=1a1a2e" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio.dev">
+  <a href="Soon">
     <img src="https://img.shields.io/badge/Portfolio-your--portfolio.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href=" https://www.linkedin.com/in/roshan-g-693092363/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:roshan.devcodes@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/your-username">
+  <a href=" https://github.com/John-tech8">
     <img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" />
   </a>
 </p>
